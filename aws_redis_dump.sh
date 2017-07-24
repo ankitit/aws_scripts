@@ -1,5 +1,5 @@
 #!/bin/bash
-#branch2 commit
+#test
 REDISHOST=""
 REDISPORT=""
 S3BUCKET=""
