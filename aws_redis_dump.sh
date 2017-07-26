@@ -1,5 +1,6 @@
 #!/bin/bash
 #branch2 commit
+#this is demo purpose
 REDISHOST=""
 REDISPORT=""
 S3BUCKET=""
