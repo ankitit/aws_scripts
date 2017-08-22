@@ -1,6 +1,5 @@
 #!/bin/bash
-#dtest_test
-#test
+
 REDISHOST=""
 REDISPORT=""
 S3BUCKET=""
