@@ -1,5 +1,5 @@
 #!/bin/bash
-#comment
+#comment part
 REDISHOST=""
 REDISPORT=""
 S3BUCKET=""
