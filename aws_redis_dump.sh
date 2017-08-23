@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 #1comment part
 REDISHOST=""
 REDISPORT=""
